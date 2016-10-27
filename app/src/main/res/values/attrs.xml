@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="SerialEditText">
+		<attr name="setBorderColor" format="color"/>
+		<attr name="setBorderWidth" format="dimension"/>
+		<attr name="setTextColor" format="color"/>
+		<attr name="setTextLength" format="integer"/>
+		<attr name="setTextSize" format="dimension"/>
+	</declare-styleable>
+</resources>
